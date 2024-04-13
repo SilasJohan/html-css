@@ -1,0 +1,66 @@
+h1 {
+    font-family: "Anton", sans-serif;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  nav{
+    text-align: center;
+    font-size: 34px;
+    
+  }
+  
+  a:hover{
+    color: #ff0000;
+    font-size: 40px;
+  }
+  
+  #baleia{
+    height: 800px;
+    width: 800px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  p{
+    font-size: 40px
+  }
+  
+  #magno{
+     height: 40px;
+    width: 1000px;
+  }
+  
+  
+  img {
+    width: 800px;
+    height: 500px;
+  }
+  
+  body{
+   
+    text-align: center; 
+    background-image: url(https://scontent.ffln1-1.fna.fbcdn.net/v/t1.6435-9/37296572_2059461874126371_4501298216389574656_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ow3XQB4N3lsAb5ihv6i&_nc_ht=scontent.ffln1-1.fna&oh=00_AfA3xuAdgbsXbqYHMg0txz4NlTEJV8FjO8KQsNl_ly6rxw&oe=66426CD1);
+    background-size: cover;
+  }
+  
+  main{
+    background-color: white;
+    width: 1500px;
+    margin: 100px;
+    padding: 80px;
+    border-radius: 40px;
+  }
+  
+  ol{
+    font-size: 32px;
+    font-family: "Teko", sans-serif;
+    
+  }
+  
+  li {
+    text-align: center;
+  }
